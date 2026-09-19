@@ -30,8 +30,18 @@ The goal is to apply distinct background and text colors to the first paragraph 
 ### 📌 Project Overview
 This project is a simple HTML and CSS practice exercise.  
 It demonstrates how to create a card layout with an image, title, description, and button.  
-The design focuses on clean structure, responsive styling, and beginner-friendly code.
+The design focuses on clean structure, and beginner-friendly code.
 ---
+
+# *Exercise 04 alt"
+## Nature Card Project
+
+### 📌 Project Overview
+This project is inspired by previous project.
+It is simple html and css project to practice designing skills.
+It has separate css file.
+---
+
 
 
 
