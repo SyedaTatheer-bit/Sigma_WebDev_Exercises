@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+*{
+    padding:0px;
+    margin:0px;
+
+}
+
+.card{
+    background-color: white;
+    border:2px solid grey;
+    border-radius: 10px;
+    width:500px;
+    height:570px;
+}
+.image img{
+    width:500px;
+    border-radius: 10px;
+
+}
+.content {
+    display: flexbox;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+.Name{
+    margin:10px;
+    color:  #0073e6;
+}
+.description{
+    font-family: 'Indie Flower';
+    padding: 20px 60px;
+}
+
+.btn{
+    color: white;
+    background: linear-gradient(to right, #28a745, #0073e6);
+    margin:0px 90px;
+    padding:10px 0px;
+    border: none;
+    border-radius: 10px;
+}
