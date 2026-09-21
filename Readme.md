@@ -42,6 +42,15 @@ It is simple html and css project to practice designing skills.
 It has separate css file.
 ---
 
+# *Exercise 05 "
+## Var in Css
+
+### 📌 Project Overview
+A simple navigation bar built with **HTML** and **CSS**.  
+It demonstrates the use of **flexbox** for horizontal alignment and **CSS variables** for consistent color styling.
+
+---
+
 
 
 
