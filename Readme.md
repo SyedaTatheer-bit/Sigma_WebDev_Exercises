@@ -50,13 +50,22 @@ A simple navigation bar built with **HTML** and **CSS**.
 It demonstrates the use of **flexbox** for horizontal alignment and **CSS variables** for consistent color styling.
 
 ---
-# *Exercise 05 "
+# *Exercise 06"
 ## 🎮 Game Zone Website
 
 ### 📌 Project Overview
 A simple web project showcasing popular games for girls and boys, built with **HTML & CSS**.  
 This project is part of my web development practice and portfolio.
 It has navigation bar, the elements are hoverable. It also has a footer.
+
+---
+# *Exercise 06"
+## 🎮 Nav bar clone
+
+### 📌 Project Overview
+A simple web project , built with **HTML & CSS**. Nav Bar is clone of ultraviolet edit app.  
+This project is part of my web development practice and portfolio.
+It has navigation bar, the elements are hoverable.
 
 ---
 
