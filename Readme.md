@@ -59,7 +59,7 @@ This project is part of my web development practice and portfolio.
 It has navigation bar, the elements are hoverable. It also has a footer.
 
 ---
-# *Exercise 06"
+# *Exercise 07"
 ## 🎮 Nav bar clone
 
 ### 📌 Project Overview
@@ -68,7 +68,15 @@ This project is part of my web development practice and portfolio.
 It has navigation bar, the elements are hoverable.
 
 ---
+# *Exercise 08"
+## 🎮 ball animation
 
+### 📌 Project Overview
+A simple web project , built with **HTML & CSS**. 
+This project is part of sigma web development course. This exercise uses an animation property
+and it makes a ball bounce.
+
+---
 
 
 
